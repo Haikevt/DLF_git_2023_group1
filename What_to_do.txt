@@ -1,0 +1,42 @@
+Handy git-cheatsheets:
+https://www.deleidscheflesch.nl/p/gitworkshop
+
+In case you are "Ava".
+
+Ask a question to "Haike:"
+- Look for a question in "My_questions.txt", take the code (For example 369229efa72293bbb272)
+- Go to the branch of Haike:
+  "git checkout Haike"
+- Modify the "Q_en_A.txt file using your favorite editor, only add the question and the code.
+- Make a commit
+  "git add Q_en_A.txt"
+  Option 1: "git commit"
+  (editor appears. Type a useful commit message. Using vim? With 'i' you can edit, with 'esc esc esc' (sometimes needed) and than ':wq' (w = write, q = quit) and then 'enter' you leave the editor)
+  Option 2: "git commit -m 'insert a useful message'"
+- Push your new commit
+  "git push"
+- Entertain yourself while you wait for Haike to answer your question (You could, just a suggestion, answer questions you yourself have received)
+- Is the answer useful? Go to main and add the useful information in the notebook using the names and the question and answer.
+  "git checkout main"
+  add the information in "Notebook.txt" using your favorite editor.
+  "git add notitieboekje.txt"
+  "git commit"
+  "git push"
+- Continue until you have solved the mystery!
+
+
+Answering a question:
+- Look if you received a question:
+  Are you on your own branch? ("git status") No -> "git checkout <Your branch>" (So "git checkout Ava" if you are Ava).
+  Check your branch with "git branch" 
+- Pull adjustments to that branch
+  "git pull"
+- Read the "Q_en_A.txt"
+- Is there a code without an answer?
+  Add the answer with your favorite exitor
+  Make a commit
+    "git add Q_en_A.txt"
+    "git commit"
+    Make a commit message
+  Push your commit
+    "git push"
