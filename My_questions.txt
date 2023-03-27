@@ -1,0 +1,13 @@
+Haike - Did you throw beers?	01b76e3b4947b6094edc4d16c9ab28c686274764
+Randy - What is your stopwoord?	64492780ccd6dbdc0ee6b67ca30bd167ac188e23
+Meili - Where were you after the constitutional drinks yesterday?	12e92db2c48742e90b21502035fc748721b0538e
+Tom - Where were you after the constitutional drinks yesterday?	3c26f33c6c0ce575c67f8703abd7726ad8b995ba
+Haike - Who did you like most from the board?	53061627ad133fa5de1a939d4c150ddd08b1a9f0
+Meili - Did you make a lot of late hours?	a8e2a8ca04c43abf72d19b115f3ca191ed2918b4
+Tom - What is your favorite pet?	5e48d068461c49630c7338d20f86554975b0bacf
+Randy - Do you like Ketel?	0d30141e4a89d37ec04915cc2cd09fe71cf1160c
+Haike - How did you meet Nikos?	07a41a797ca9222754ea228c600246f84dac9f19
+Meili - Who was your enemy?	62d5fa16b7b60983bd7aaed2ae3fc8d3beeea1e5
+Randy - Have their been exiting moments in the board?	6e213fe6defee77c6867e82edac6d80c31f782fa
+Haike - What do you think of Nikos his cooking skills for the cooking committee?	9940262ba13ee42c4f7ccfafe991e2893c9ef3e1
+Tom - Did you throw beers?	3daea4ffc9f2e319ef2427d8bcd51fc21df87021
