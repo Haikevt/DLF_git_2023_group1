@@ -24,4 +24,9 @@ Q: Meili - Where were you after the constitutional drinks yesterday?	12e92db2c48
 A: Sleeping? I was tired.
 
 Q: Meili - Did you make a lot of late hours?	a8e2a8ca04c43abf72d19b115f3ca191ed2918b4
+<<<<<<< HEAD
 A: Went home everyday at five. Just before I left, I made a round to check if everybody would leave soon too. I wonder how Randy and Nikos could work so long overtime. I was under the impression that their computers rattling.	a8e2a8ca04c43abf72d19b115f3ca191ed2918b4
+=======
+
+Q: Meili - Who was your enemy?	62d5fa16b7b60983bd7aaed2ae3fc8d3beeea1e5
+>>>>>>> 83c6c889384b2f6fbd71d3b168f60d41a1d624c0
