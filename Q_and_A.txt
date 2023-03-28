@@ -24,3 +24,5 @@ A: Mafklapper
 
 Q: Randy - Do you like Ketel?	0d30141e4a89d37ec04915cc2cd09fe71cf1160c
 A: No, I like cider. Oh, yea that remembers me about a story in Alphen, I was just vibing when I got hit by a beer by one stupid Asian.
+
+Q: Randy - How is your study?	773f772e62d4c8a49e5b26f670903788dd9a55ca
