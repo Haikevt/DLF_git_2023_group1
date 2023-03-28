@@ -26,5 +26,7 @@ Q: Ava - Do you like cheese?	9f4b7daad82edba729f66f69b1d91fdfc584f329
 A: Absolutely, but not burned like on the tosti's from Nikos.	9f4b7daad82edba729f66f69b1d91fdfc584f329
 
 Q: Ava - Did Nikos had an argument with anybody?	84ef422f4cbf3942301c88993068daef4851fa97
+A: No, he was a teddybear	84ef422f4cbf3942301c88993068daef4851fa97
 
 Q: Ava - Has anything interessting showed up during your president conversations?	35cb6d9899a4a16f8fde492428127bfe1d1192b9
+A: Lately it has been fine I guess. Meili mentioned some annoyances while making the mentor guide and Randy says he is bothered by the clock 	35cb6d9899a4a16f8fde492428127bfe1d1192b9
