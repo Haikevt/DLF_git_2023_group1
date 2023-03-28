@@ -15,3 +15,5 @@ A: Hard to avoid as a neighbor.
 
 Q: Randy - What do you use for making your beloved sandwhich during lunch?	7653a5e5e45d50435ba4fe542aa63ebe5eb4ff4a
 A: Nikos brought me soup from the cantine, really sweet of him
+
+Q: Randy - Have their been exiting moments in the board?	6e213fe6defee77c6867e82edac6d80c31f782fa
