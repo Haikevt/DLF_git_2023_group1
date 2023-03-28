@@ -12,3 +12,9 @@ Q: Tom - How would you describe Nikos his music	74a0100cd72d7adc18a83eb4b977f9fa
 A:Pear ice cream with too little sugar	74a0100cd72d7adc18a83eb4b977f9fa1bcb039a
 
 
+Q: Tom - Did you do a committee with Nikos?	47bf135f54fcc8e042512cb16005ce89a9788ec7
+A:
+
+Q: Tom - What kind of music did you play in the FK?	67ed711b9cd901acbf541687dca7b30c91852a02
+A:
+
