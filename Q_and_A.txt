@@ -1,3 +1,4 @@
 Q: Do you like cheese?	3180646f520a9f6619a893d2d225b234750e86dd
 A: Pita cheese?	3180646f520a9f6619a893d2d225b234750e86dd
 Q: Randy - Where were you after the constitutional drinks?	0c68259fa5b69e53aab65a7f30f7ed8b1587d053
+A: I don't remember, perhaps not in my own bed.	0c68259fa5b69e53aab65a7f30f7ed8b1587d053
