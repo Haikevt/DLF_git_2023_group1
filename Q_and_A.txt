@@ -1,11 +1,11 @@
 Q: Ava - Where were you after the constitutional drinks?	355461e56bec3754066543e7cba22eaf7178ec09
-A: In the Next	76f0bebfa701ec129e0677448ae05cca2801be7a
+A: Bringing Drunk people home	355461e56bec3754066543e7cba22eaf7178ec09
 
 Q: How is Haike as a roommate?       558273bfe569d1ddbc68072fc3a111ee91c9cfab
 A: No fun at all, Tom was right, I should have chosen Nikos.	558273bfe569d1ddbc68072fc3a111ee91c9cfab
 
 Q: Did you ever throw up this year?  76f0bebfa701ec129e0677448ae05cca2801be7a
-A: ?
+A: In the Next	76f0bebfa701ec129e0677448ae05cca2801be7a
 
 Q: Ava - What did you wanted to be when you grew up?	37a7d6222de4535ea85417491179c56b59f656d4
 A: There was a period where I wanted to become a cook, it never came to that but I did love cooking. During policy week, me, Tom and Nikos held a little competition which I lost to Nikos.	37a7d6222de4535ea85417491179c56b59f656d4
@@ -14,10 +14,10 @@ Q: Ava - Did you have personal belongings in FK?	9fc9422df5331a84d69c4954e6a96d4
 A: A few, They were all in my desk, other than that I had nothing.	9fc9422df5331a84d69c4954e6a96d45db1bbd73
 
 Q: Ava - What is the best part of your function?	3bc70f23c59e70685747371e8729a2a74c41cdd3
-A: Bringing Drunk people home	355461e56bec3754066543e7cba22eaf7178ec09
+A: Generally yes, but I also have a side tasks: lunchlectures which is so much fun. Come to the lunchlecture next week! Afterwards I give the speaker a bottle of wine from 't Kascht.	3bc70f23c59e70685747371e8729a2a74c41cdd3
 
 Q: Ava - Describe Nikos in one word?	7e6d67d8b70b62eba5135c7053b09931191dac3b
-A: No, he was a teddybear	84ef422f4cbf3942301c88993068daef4851fa97
+A: Zorgen	7e6d67d8b70b62eba5135c7053b09931191dac3b
 
 Q: Ava - Did you ever prank anyone in the FK?	66fd01f1333c17035ae930175543e326777a3152
 A: I have given a "hoogtice" to everyone, I never saw Nikos so dissapointed haha.	66fd01f1333c17035ae930175543e326777a3152
