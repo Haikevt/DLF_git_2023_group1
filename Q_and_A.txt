@@ -1,4 +1,6 @@
-Ava - Where were you after the constitutional drinks?	355461e56bec3754066543e7cba22eaf7178ec09
+Q: Ava - Where were you after the constitutional drinks?	355461e56bec3754066543e7cba22eaf7178ec09
+A:
+
 Q: How is Haike as a roommate?       558273bfe569d1ddbc68072fc3a111ee91c9cfab
 A: No fun at all, Tom was right, I should have chosen Nikos.	558273bfe569d1ddbc68072fc3a111ee91c9cfab
 
@@ -16,3 +18,9 @@ A: Bringing Drunk people home	355461e56bec3754066543e7cba22eaf7178ec09
 
 Q: Ava - Describe Nikos in one word?	7e6d67d8b70b62eba5135c7053b09931191dac3b
 A: No, he was a teddybear	84ef422f4cbf3942301c88993068daef4851fa97
+
+Q: Ava - Did you ever prank anyone in the FK?	66fd01f1333c17035ae930175543e326777a3152
+A:
+
+Q: Ava - Do you like cheese?	9f4b7daad82edba729f66f69b1d91fdfc584f329
+A:
